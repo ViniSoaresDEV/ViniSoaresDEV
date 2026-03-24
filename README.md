@@ -37,7 +37,7 @@ Gosto de construir interfaces funcionais e intuitivas, unindo código limpo a um
 ### <div align="left">Como me encontrar</div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/viniciussilvasoares/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/viniciussilvasoares/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>
   <a href="mailto:byvinix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </div>
 
