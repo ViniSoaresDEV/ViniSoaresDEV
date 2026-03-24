@@ -27,17 +27,17 @@ Gosto de construir interfaces funcionais e intuitivas, unindo código limpo a um
 ### <div align="left">🚧 O que estou construindo no momento</div>
 
 <div align="left">
-  Estou trabalhando nos bastidores em projetos que em breve terão o código aberto por aqui! 👀
+  Estou trabalhando nos bastidores em projetos que em breve terão o código aberto por aqui!
   <br><br>
   ⚽ <b>FootAnalytics:</b> Um dashboard interativo de estatísticas esportivas com navegação dinâmica e consumo de APIs.<br>
   📦 <b>Sistema de Gestão de Estoque:</b> Uma aplicação completa com permissões de acesso (RBAC) e integração robusta com Supabase.<br>
-  🌱 <b>Foco de estudo atual:</b> Refatoração de código, componentização limpa no Front-end e gerenciamento de estados globais.
+  📚 <b>Foco de estudo atual:</b> Refatoração de código, componentização limpa no Front-end e gerenciamento de estados globais.
 </div>
 
 ### <div align="left">Como me encontrar</div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/viniciussilvasoares/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/viniciussilvasoares/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:byvinix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </div>
 
